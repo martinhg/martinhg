@@ -118,22 +118,11 @@ fintech, government, HR, legal-tech and enterprise. I don't just write features 
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinhg/atlas)
 
-### 🛒 [store-backend](https://github.com/martinhg/store-backend) &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/martinhg/store-backend?style=flat-square&label=%E2%AD%90&color=BB9AF7)
-
-Reference **REST API** built with NestJS — clean, modular, production-shaped backend architecture.
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinhg/store-backend)
-
-<sub>💡 More in my repos: NestJS & Angular sample projects and coding challenges.</sub>
-
 <!-- ─────────────────────────────  STATS  ───────────────────────────── -->
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="c
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinhg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=BB9AF7" alt="GitHub Stats" />
 <img height="180em" src="https://streak-stats.demolab.com/?user=martinhg&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak" />
