@@ -89,6 +89,46 @@ fintech, government, HR, legal-tech and enterprise. I don't just write features 
 
 </div>
 
+<!-- ─────────────────────────────  OPEN SOURCE  ───────────────────────────── -->
+
+## 🌱 Open Source — What I'm Building
+
+> I build developer tools in the open — for people who use AI as a **thinking partner, not a crutch**.
+
+### 🤖 [capiko-ai](https://github.com/martinhg/capiko-ai) &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/martinhg/capiko-ai?style=flat-square&label=%E2%AD%90&color=BB9AF7)
+
+**Turns the GitHub Copilot CLI into a senior teammate.** A curated catalog of skills, custom agents, a teaching persona, cross-session memory, and a native **Spec-Driven Development** engine — all packed into a single Go binary. No LLM inside: _capiko directs, Copilot executes._
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bubble Tea](https://img.shields.io/badge/Bubble%20Tea-FF75B7?style=for-the-badge&logo=charm&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![Spec-Driven Dev](https://img.shields.io/badge/Spec--Driven%20Dev-7C3AED?style=for-the-badge)
+![CLI + TUI](https://img.shields.io/badge/CLI%20%2B%20TUI-4EAA25?style=for-the-badge&logo=gnometerminal&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinhg/capiko-ai)
+[![Install via Homebrew](https://img.shields.io/badge/Install%20via%20Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)](https://github.com/martinhg/homebrew-tap)
+
+### 🗺️ [AtlasOS](https://github.com/martinhg/atlas) &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/martinhg/atlas?style=flat-square&label=%E2%AD%90&color=BB9AF7)
+
+**Engineering Intelligence Platform** — map your software ecosystem and know what breaks _before_ you break it. A full-stack platform: Go core, TypeScript UI, fully containerized.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinhg/atlas)
+
+### 🛒 [store-backend](https://github.com/martinhg/store-backend) &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/martinhg/store-backend?style=flat-square&label=%E2%AD%90&color=BB9AF7)
+
+Reference **REST API** built with NestJS — clean, modular, production-shaped backend architecture.
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinhg/store-backend)
+
+<sub>💡 More in my repos: NestJS & Angular sample projects and coding challenges.</sub>
+
 <!-- ─────────────────────────────  STATS  ───────────────────────────── -->
 
 ## 📊 GitHub Analytics
@@ -129,20 +169,6 @@ fintech, government, HR, legal-tech and enterprise. I don't just write features 
 - 📚 Pursuing my **B.S. in Software Engineering** (Universidad Siglo XXI) alongside my **B.S. in System Engineering** (UTN).
 - 🌱 Going deeper into **clean / hexagonal architecture**, distributed systems and system design.
 - 🤝 **Open to** senior/lead roles, freelance projects and open-source collaboration.
-
-<!-- ─────────────────────────────  SNAKE  ───────────────────────────── -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/martinhg/martinhg/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/martinhg/martinhg/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/martinhg/martinhg/output/github-snake.svg" />
-</picture>
-
-</div>
 
 <!-- ─────────────────────────────  CONNECT  ───────────────────────────── -->
 
